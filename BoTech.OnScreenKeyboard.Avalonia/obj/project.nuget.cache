@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pe1jE8sd7+Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fteet\\OneDrive\\Dokumente\\BoTech\\Projects\\BoTech.OnScreenKeyboard\\BoTech.OnScreenKeyboard.Avalonia\\BoTech.OnScreenKeyboard.Avalonia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fteet\\.nuget\\packages\\avalonia\\11.3.1\\avalonia.11.3.1.nupkg.sha512",
+    "C:\\Users\\fteet\\.nuget\\packages\\avalonia.buildservices\\0.0.31\\avalonia.buildservices.0.0.31.nupkg.sha512",
+    "C:\\Users\\fteet\\.nuget\\packages\\avalonia.remote.protocol\\11.3.1\\avalonia.remote.protocol.11.3.1.nupkg.sha512",
+    "C:\\Users\\fteet\\.nuget\\packages\\microcom.runtime\\0.11.0\\microcom.runtime.0.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}

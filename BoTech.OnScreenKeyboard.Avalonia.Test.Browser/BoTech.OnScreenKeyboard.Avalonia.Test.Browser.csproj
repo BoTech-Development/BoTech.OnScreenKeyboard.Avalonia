@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WebAssembly">
+    <PropertyGroup>
+        <TargetFramework>net9.0-browser</TargetFramework>
+        <OutputType>Exe</OutputType>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+        <Nullable>enable</Nullable>
+        <RootNamespace>BoTech.OnScreenKeyboard.Avalonia.Test.Browser</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Avalonia.Browser" Version="11.3.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\BoTech.OnScreenKeyboard.Avalonia.Test\BoTech.OnScreenKeyboard.Avalonia.Test.csproj" />
+    </ItemGroup>
+</Project>

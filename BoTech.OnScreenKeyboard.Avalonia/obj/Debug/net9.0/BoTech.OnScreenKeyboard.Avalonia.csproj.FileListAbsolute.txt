@@ -1,0 +1,13 @@
+C:\Users\fteet\OneDrive\Dokumente\BoTech\Projects\BoTech.OnScreenKeyboard\BoTech.OnScreenKeyboard.Avalonia\obj\Debug\net9.0\BoTech.OnScreenKeyboard.Avalonia.csproj.AssemblyReference.cache
+C:\Users\fteet\OneDrive\Dokumente\BoTech\Projects\BoTech.OnScreenKeyboard\BoTech.OnScreenKeyboard.Avalonia\obj\Debug\net9.0\Avalonia\Resources.Inputs.cache
+C:\Users\fteet\OneDrive\Dokumente\BoTech\Projects\BoTech.OnScreenKeyboard\BoTech.OnScreenKeyboard.Avalonia\obj\Debug\net9.0\BoTech.OnScreenKeyboard.Avalonia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fteet\OneDrive\Dokumente\BoTech\Projects\BoTech.OnScreenKeyboard\BoTech.OnScreenKeyboard.Avalonia\obj\Debug\net9.0\BoTech.OnScreenKeyboard.Avalonia.AssemblyInfoInputs.cache
+C:\Users\fteet\OneDrive\Dokumente\BoTech\Projects\BoTech.OnScreenKeyboard\BoTech.OnScreenKeyboard.Avalonia\obj\Debug\net9.0\BoTech.OnScreenKeyboard.Avalonia.AssemblyInfo.cs
+C:\Users\fteet\OneDrive\Dokumente\BoTech\Projects\BoTech.OnScreenKeyboard\BoTech.OnScreenKeyboard.Avalonia\obj\Debug\net9.0\BoTech.OnScreenKeyboard.Avalonia.csproj.CoreCompileInputs.cache
+C:\Users\fteet\OneDrive\Dokumente\BoTech\Projects\BoTech.OnScreenKeyboard\BoTech.OnScreenKeyboard.Avalonia\bin\Debug\net9.0\BoTech.OnScreenKeyboard.Avalonia.deps.json
+C:\Users\fteet\OneDrive\Dokumente\BoTech\Projects\BoTech.OnScreenKeyboard\BoTech.OnScreenKeyboard.Avalonia\bin\Debug\net9.0\BoTech.OnScreenKeyboard.Avalonia.dll
+C:\Users\fteet\OneDrive\Dokumente\BoTech\Projects\BoTech.OnScreenKeyboard\BoTech.OnScreenKeyboard.Avalonia\bin\Debug\net9.0\BoTech.OnScreenKeyboard.Avalonia.pdb
+C:\Users\fteet\OneDrive\Dokumente\BoTech\Projects\BoTech.OnScreenKeyboard\BoTech.OnScreenKeyboard.Avalonia\obj\Debug\net9.0\BoTech.OnScreenKeyboard.Avalonia.dll
+C:\Users\fteet\OneDrive\Dokumente\BoTech\Projects\BoTech.OnScreenKeyboard\BoTech.OnScreenKeyboard.Avalonia\obj\Debug\net9.0\refint\BoTech.OnScreenKeyboard.Avalonia.dll
+C:\Users\fteet\OneDrive\Dokumente\BoTech\Projects\BoTech.OnScreenKeyboard\BoTech.OnScreenKeyboard.Avalonia\obj\Debug\net9.0\BoTech.OnScreenKeyboard.Avalonia.pdb
+C:\Users\fteet\OneDrive\Dokumente\BoTech\Projects\BoTech.OnScreenKeyboard\BoTech.OnScreenKeyboard.Avalonia\obj\Debug\net9.0\ref\BoTech.OnScreenKeyboard.Avalonia.dll

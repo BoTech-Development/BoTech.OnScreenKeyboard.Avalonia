@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoTech.OnScreenKeyboard.Avalonia", "BoTech.OnScreenKeyboard.Avalonia\BoTech.OnScreenKeyboard.Avalonia.csproj", "{ACC0B79A-3B7A-4103-B575-3CFCA78839E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoTech.OnScreenKeyboard.Avalonia.Test", "BoTech.OnScreenKeyboard.Avalonia.Test\BoTech.OnScreenKeyboard.Avalonia.Test.csproj", "{272AEFCC-691B-4199-A242-D875A7BCD57D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoTech.OnScreenKeyboard.Avalonia.Test.Android", "BoTech.OnScreenKeyboard.Avalonia.Test.Android\BoTech.OnScreenKeyboard.Avalonia.Test.Android.csproj", "{E3080AE1-A7DC-465B-B41B-FD0BCB5C5FBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoTech.OnScreenKeyboard.Avalonia.Test.Browser", "BoTech.OnScreenKeyboard.Avalonia.Test.Browser\BoTech.OnScreenKeyboard.Avalonia.Test.Browser.csproj", "{5362937C-60DB-42B6-8FAB-5FD1985EDD07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoTech.OnScreenKeyboard.Avalonia.Test.Desktop", "BoTech.OnScreenKeyboard.Avalonia.Test.Desktop\BoTech.OnScreenKeyboard.Avalonia.Test.Desktop.csproj", "{7D0DBBFD-455A-415F-9BA1-67052DF9D705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoTech.OnScreenKeyboard.Avalonia.Test.iOS", "BoTech.OnScreenKeyboard.Avalonia.Test.iOS\BoTech.OnScreenKeyboard.Avalonia.Test.iOS.csproj", "{2C5404F8-B75C-4780-B72E-ABC8D6CC27F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACC0B79A-3B7A-4103-B575-3CFCA78839E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC0B79A-3B7A-4103-B575-3CFCA78839E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC0B79A-3B7A-4103-B575-3CFCA78839E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC0B79A-3B7A-4103-B575-3CFCA78839E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{272AEFCC-691B-4199-A242-D875A7BCD57D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272AEFCC-691B-4199-A242-D875A7BCD57D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272AEFCC-691B-4199-A242-D875A7BCD57D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272AEFCC-691B-4199-A242-D875A7BCD57D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3080AE1-A7DC-465B-B41B-FD0BCB5C5FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3080AE1-A7DC-465B-B41B-FD0BCB5C5FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3080AE1-A7DC-465B-B41B-FD0BCB5C5FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3080AE1-A7DC-465B-B41B-FD0BCB5C5FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5362937C-60DB-42B6-8FAB-5FD1985EDD07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5362937C-60DB-42B6-8FAB-5FD1985EDD07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5362937C-60DB-42B6-8FAB-5FD1985EDD07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5362937C-60DB-42B6-8FAB-5FD1985EDD07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D0DBBFD-455A-415F-9BA1-67052DF9D705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D0DBBFD-455A-415F-9BA1-67052DF9D705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D0DBBFD-455A-415F-9BA1-67052DF9D705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D0DBBFD-455A-415F-9BA1-67052DF9D705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C5404F8-B75C-4780-B72E-ABC8D6CC27F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C5404F8-B75C-4780-B72E-ABC8D6CC27F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C5404F8-B75C-4780-B72E-ABC8D6CC27F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C5404F8-B75C-4780-B72E-ABC8D6CC27F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
