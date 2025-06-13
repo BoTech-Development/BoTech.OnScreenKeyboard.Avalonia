@@ -1,5 +1,6 @@
 ﻿using Avalonia;
 using Avalonia.Controls;
+using Avalonia.Controls.Primitives;
 using Avalonia.Interactivity;
 using Avalonia.Layout;
 
@@ -29,9 +30,13 @@ public class AlphabetBuilder
 
     private StackPanel CreateBottomControlKeysRow()
     {
-        Button ctrl = new Button()
+        ToggleButton ctrl = new ToggleButton()
         {
             Content = "Ctrl"
+        };
+        ctrl.Click += (sender, args) =>
+        {
+            ctrl.IsChecked = !ctrl.IsChecked;
         };
         Button left = new Button()
         {

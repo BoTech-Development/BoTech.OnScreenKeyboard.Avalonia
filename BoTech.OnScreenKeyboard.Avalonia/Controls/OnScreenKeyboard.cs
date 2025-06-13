@@ -17,8 +17,9 @@ public class OnScreenKeyboard : ContentControl
     /// <param name="manager">The Manager is needed to transfer a button Click.</param>
     public OnScreenKeyboard(OnScreenKeyboardManager manager)
     {
-        Content = CreateOnScreenKeyboard();
         _manager = manager;
+        Content = CreateOnScreenKeyboard();
+        
     }
     /// <summary>
     /// Creates the UI for the OnScreenKeyboard
